@@ -25,6 +25,16 @@ Actualmente estudio análisis de datos con proyectos propios y bases públicas.
 
 ---
 
+## 🧪 QA Frontend (Experiencia previa)
+
+También tengo conocimientos en pruebas manuales y automatizadas con Cypress, centradas en interfaces de usuario (UI).  
+He trabajado en:
+- Testing funcional de aplicaciones web
+- Automatización básicas de flujos con JavaScript y Cypress
+- Validación visual y lógica de formularios y componentes
+
+---
+
 ## 📚 En este momento aprendiendo
 
 - Estadística aplicada y probabilidades
@@ -38,6 +48,14 @@ Actualmente estudio análisis de datos con proyectos propios y bases públicas.
 - Construcción de portafolio con datasets públicos
 - Automatización básica con scripts de Python
 - Dashboard con matplotlib/seaborn y Jupyter
+
+---
+
+## 🧠 Formación complementaria
+
+- 🎨 **Diseñador gráfico profesional**: visión visual, estética y estructuración de contenido  
+- 🎓 **Especialista en pedagogía y docencia**: habilidades de comunicación, enseñanza y pensamiento crítico  
+- 🔍 Estas habilidades fortalecen mi perfil técnico, facilitando la interpretación y visualización efectiva de datos
 
 ---
 
